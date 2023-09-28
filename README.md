@@ -6,6 +6,6 @@
 3.  comprando da siti come ebay ce sempre riscio di una truffa 
 4.  in questi siti non è possibile valutare il venditore 
 ### requisidi non funzionali 
-1. creare il sito web 
-2. riuscire a far caricare le foto delle scarpe 
-3. avere delle persone che verificano le scarpe
+1.  creare il sito web 
+2.  riuscire a far caricare le foto delle scarpe 
+3.  avere delle persone che verificano le scarpe
