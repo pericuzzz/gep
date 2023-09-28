@@ -1,4 +1,4 @@
-# got'em
+# Got'em
 ## risoluzione dei problema
 ### requisiti funzionali 
 1.  sopperire alla mancanza di siti che si occupano di compra vendita di scarpe da collezione usate
