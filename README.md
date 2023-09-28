@@ -1,4 +1,5 @@
 # Got'em
+ compra le tue nuove scarpe con sicurezza e guadagna con le scarpe usate che non metti pìu un sito di compra/vendita di scarpe da collezione con verifica di quest'ultime
 ## risoluzione dei problema
 ### requisiti funzionali 
 1.  sopperire alla mancanza di siti che si occupano di compra vendita di scarpe da collezione usate
