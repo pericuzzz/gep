@@ -8,4 +8,5 @@
 ### requisiti non funzionali 
 1.  riuscire ad avere delle spedizioni con controllo in magazzino sotto i 5 giorni lavorativi  
 2.  avere un database con piu di 2000 modelli  
-3.  imporsi sul mercato come un sito sicuro da cui comprare 
+3.  imporsi sul mercato come un sito sicuro da cui comprare
+4.  rispetare le norme del GDPR 
