@@ -9,4 +9,4 @@
 1.  riuscire ad avere delle spedizioni con controllo in magazzino sotto i 5 giorni lavorativi  
 2.  avere un database con piu di 2000 modelli  
 3.  imporsi sul mercato come un sito sicuro da cui comprare
-4.  rispeTtare le norme del GDPR 
+4.  rispettare le norme del GDPR 
