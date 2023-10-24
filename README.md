@@ -14,7 +14,7 @@
 ### utente visitatore
 1. registrazione di un nuovo utente
 2. ricerca di un paglio di scarpe
-### utente acquirente 
+### utente acquirente/venditore 
 1. inserire le scarpe in vendita 
 2. recensire il venditore
 3. contratare per riuscire ad vendere/acquistastare la scarpa
