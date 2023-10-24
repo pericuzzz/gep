@@ -11,11 +11,15 @@
 3.  imporsi sul mercato come un sito sicuro da cui comprare
 4.  rispettare le norme del GDPR
 ## casi d'uso
-### utente 
+### utente visitatore
 1. registrazione di un nuovo utente
-2. ricerca di un paglio di scarpe 
-3. acquistare
-4. inserire le scarpe in vendita 
-5. recensire il venditore
-6. contratare per riuscire ad vendere/acquistastare la scarpa
-7. 
+2. ricerca di un paglio di scarpe
+### utente acquirente 
+1. inserire le scarpe in vendita 
+2. recensire il venditore
+3. contratare per riuscire ad vendere/acquistastare la scarpa
+### sistema bancario 
+1. acquistare una scarpa
+### amministrazione di sistema 
+1. controllare la verificata delle scarpe
+2. veridicita delle recensione 
