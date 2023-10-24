@@ -9,4 +9,13 @@
 1.  riuscire ad avere delle spedizioni con controllo in magazzino sotto i 5 giorni lavorativi  
 2.  avere un database con piu di 2000 modelli  
 3.  imporsi sul mercato come un sito sicuro da cui comprare
-4.  rispettare le norme del GDPR 
+4.  rispettare le norme del GDPR
+## casi d'uso
+# utente 
+1. registrazione di un nuovo utente
+2. ricerca di un paglio di scarpe 
+3. acquistare
+4. inserire le scarpe in vendita 
+5. recensire il venditore
+6. contratare per riuscire ad vendere/acquistastare la scarpa
+7. 
