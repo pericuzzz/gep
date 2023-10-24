@@ -22,4 +22,5 @@
 1. acquistare una scarpa
 ### amministrazione di sistema 
 1. controllare la verificata delle scarpe
-2. veridicita delle recensione 
+2. veridicita delle recensione
+3. spedisce
