@@ -23,4 +23,4 @@
 ### amministrazione di sistema 
 1. controllare la verificata delle scarpe
 2. veridicita delle recensione
-3. spedisce
+3. smistamento
