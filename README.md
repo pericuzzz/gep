@@ -11,7 +11,7 @@
 3.  imporsi sul mercato come un sito sicuro da cui comprare
 4.  rispettare le norme del GDPR
 ## casi d'uso
-# utente 
+### utente 
 1. registrazione di un nuovo utente
 2. ricerca di un paglio di scarpe 
 3. acquistare
