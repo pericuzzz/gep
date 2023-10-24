@@ -24,3 +24,4 @@
 1. controllare la verificata delle scarpe
 2. veridicita delle recensione
 3. smistamento
+https://yuml.me/diagram/scruffy/usecase/[utente]-(registrazione),(registrazione)%3E(ricerca),(registrazione)%3E(inserisce),(registrazione)%3E(contratta),(acquista)%3C(inserisce),(acquista)%3C(contratta),[sistema%20bancario]%3C(acquista),[amministrazione%20di%20sistema]%3C(acquista),[amministrazione%20di%20sistema]%3E(%20controllo),[amministrazione%20di%20sistema]%3E(smistamento),(smistamento)%3E[utente],[utente]%3E(recensione),(recensione)%3E(veridicita),(veridicita)%3C[amministrazione%20di%20sistema],
