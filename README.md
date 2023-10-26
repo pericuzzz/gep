@@ -25,5 +25,5 @@
 2. veridicita delle recensione
 3. manutenzione
 
-![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente]-(registrazione),%20[utente]-(ricerca),%20(ricerca)%3E(acquista/vendi),%20(ricerca)%3E(contratta),%20(contratta)%3E(acquista/vendi),%20[sistema%20bancario]-(acquista/vendi),%20[amministrazione%20di%20sistema]-(controllo),%20(acquista/vendi)%5E(controllo),%20[amministrazione%20di%20sistema]-(manutenzione),%20[utente]-(recensione),%20(recensione)%5E(veridicit%C3%A0),%20[amministrazione%20di%20sistema]-(veridicit%C3%A0))
+![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente]-(registrazione),%20[utente]-(ricerca),%20(ricerca)%3C(acquista/vendi),%20(ricerca)%3C(contratta),%20(contratta)%3C(acquista/vendi),%20[sistema%20bancario]-(acquista/vendi),%20[amministrazione%20di%20sistema]-(controllo),%20(acquista/vendi)%5E(controllo),%20[amministrazione%20di%20sistema]-(manutenzione),%20[utente]-(recensione),%20(recensione)%5E(veridicit%C3%A0),%20[amministrazione%20di%20sistema]-(veridicit%C3%A0))
 
