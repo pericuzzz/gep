@@ -11,12 +11,16 @@
 3.  imporsi sul mercato come un sito sicuro da cui comprare
 4.  rispettare le norme del GDPR 
 ## casi d'uso
-### utente 
-1. registrazione di un nuovo utente
-2. ricerca di un paglio di scarpe
-3. inserire le scarpe in vendita 
+### utente registrato
+1. ricerca di un paglio di scarpe
+2. inserire le scarpe in vendita
+3. acquistare le scarpe 
 4. recensire il venditore
 5. contratare per riuscire ad vendere/acquistastare la scarpa
+### utente non registarto
+1. può accedere al suo profilo
+2. può creare un profilo
+3. dare una ricerca sul sito  
 ### sistema bancario 
 1. acquistare una scarpa
 ### amministrazione di sistema 
@@ -24,5 +28,5 @@
 2. veridicita delle recensione
 3. manutenzione
 
-![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente]-(registrazione),%20[utente]-(ricerca),%20[utente]-(acquista/vendi),%20[utente]-(contratta),%20(contratta)%3C(acquista/vendi),%20[sistema%20bancario]-(acquista/vendi),%20[amministrazione%20di%20sistema]-(controllo),%20(acquista/vendi)%3E(controllo),%20[amministrazione%20di%20sistema]-(manutenzione),%20[utente]-(recensione),%20(recensione)%5E(verifica),%20[amministrazione%20di%20sistema]-(verifica),)
+![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-(registrazione),%20[utente%20non%20registrato]-(accedi),%20[utente%20non%20registrato]-(ricerca),%20[utente%20registrato]-(ricerca),%20[utente%20registrato]-(acquista/vendi),%20[utente%20registrato]-(contratta),%20(contratta)%3C(acquista/vendi),%20[sistema%20bancario]-(acquista/vendi),%20[amministrazione%20di%20sistema]-(controllo),%20(acquista/vendi)%3E(controllo),%20[amministrazione%20di%20sistema]-(manutenzione),%20[utente%20registrato]-(recensione),%20(recensione)%5E(verifica),%20[amministrazione%20di%20sistema]-(verifica),)
 
