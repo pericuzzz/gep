@@ -9,15 +9,14 @@
 1.  riuscire ad avere delle spedizioni con controllo in magazzino sotto i 5 giorni lavorativi  
 2.  avere un database con piu di 2000 modelli  
 3.  imporsi sul mercato come un sito sicuro da cui comprare
-4.  rispettare le norme del GDPR
+4.  rispettare le norme del GDPR 
 ## casi d'uso
-### utente visitatore
+### utente 
 1. registrazione di un nuovo utente
 2. ricerca di un paglio di scarpe
-### utente acquirente/venditore 
-1. inserire le scarpe in vendita 
-2. recensire il venditore
-3. contratare per riuscire ad vendere/acquistastare la scarpa
+3. inserire le scarpe in vendita 
+4. recensire il venditore
+5. contratare per riuscire ad vendere/acquistastare la scarpa
 ### sistema bancario 
 1. acquistare una scarpa
 ### amministrazione di sistema 
