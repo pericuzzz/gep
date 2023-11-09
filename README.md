@@ -15,7 +15,7 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 3. Sicurezza del sito: Il sistema deve garantire un alto livello di sicurezza per instaurare la fiducia dei clienti. Ciò include la protezione dei dati personali dei clienti, l'utilizzo di connessioni sicure (HTTPS) e l'implementazione di misure di sicurezza per prevenire accessi non autorizzati al sistema o agli account dei clienti. È importante anche garantire la sicurezza dei pagamenti online per evitare frodi.
 4. Conformità al GDPR: Il sistema deve rispettare le norme del GDPR (General Data Protection Regulation) per la protezione dei dati personali. Ciò include la raccolta e l'elaborazione corretta dei dati personali dei clienti, il consenso esplicito per l'uso di tali dati, la loro sicurezza e la possibilità per i clienti di richiedere l'accesso, la modifica o la cancellazione dei propri dati personali. È importante anche tenere traccia delle preferenze di consenso dei clienti riguardo all'elaborazione dei loro dati persona
 ### requisiti di dominio 
-1. 
+1. il mio sito girera sul linux e si appogiera ad un server mysql 
 ## casi d'uso
 ### utente registrato
 1. ricerca di un paglio di scarpe (la ricerca è effetuata per prodotto)
