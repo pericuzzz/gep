@@ -34,5 +34,5 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 2. veridicita delle recensione
 3. manutenzione
 
-![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-(registrazione),%20[utente%20non%20registrato]-(accedi),%20[utente%20non%20registrato]-(ricerca),%20[utente%20registrato]-(ricerca),%20[utente%20registrato]-(acquista/vendi),%20[utente%20registrato]-(contratta),%20(contratta)%3C(acquista/vendi),%20[sistema%20bancario]-(acquista/vendi),%20[amministrazione%20di%20sistema]-(controllo),%20(acquista/vendi)%3E(controllo),%20[amministrazione%20di%20sistema]-(manutenzione),%20[utente%20registrato]-(recensione),%20(recensione)%5E(verifica),%20[amministrazione%20di%20sistema]-(verifica),)
+![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-(registrazione),%20[utente%20non%20registrato]-(accedi),%20[utente%20non%20registrato]-(ricerca),%20[utente%20registrato]-(ricerca),%20(ricerca )%20[utente%20registrato]-(acquista/vendi),%20[utente%20registrato]-(contratta),%20(contratta)%3C(acquista/vendi),,%20[utente%20registrato]-(recensione),)
 
