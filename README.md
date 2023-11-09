@@ -3,12 +3,19 @@
 ## risoluzione dei problema
 ### requisiti funzionali 
 1.Il sito deve offrire un'ampia selezione di scarpe da collezione usate disponibili per l'acquisto e la vendita.
+
 2.Il sito deve fornire un sistema di autenticazione affidabile per verificare l'autenticità delle scarpe da collezione usate.
+
 3.Il sito deve consentire agli utenti di valutare e recensire i venditori, fornendo un sistema di valutazione trasparente e affidabile.
+
 4.Il sito deve garantire la sicurezza delle transazioni e la protezione dei dati personali degli utenti.
+
 5.Il sito deve offrire una piattaforma user-friendly e intuitiva, che faciliti la ricerca, la comparazione e l'acquisto delle scarpe da collezione usate.
+
 6.Il sito deve fornire informazioni dettagliate sulle condizioni delle scarpe e sulle caratteristiche specifiche, come la marca, la taglia, il modello e l'anno di produzione.
+
 7.Il sito deve consentire agli utenti di mettere in vendita le proprie scarpe da collezione usate in modo semplice e veloce, fornendo una procedura chiara e diretta.
+
 8.Il sito deve garantire un prezzo equo per le scarpe da collezione usate, basato sul valore di mercato e sulle condizioni effettive delle calzature.
 
 Il sito deve promuovere la cultura delle scarpe da collezione usate attraverso contenuti educativi, consigli di manutenzione e informazioni sulle ultime tendenze nel settore.
