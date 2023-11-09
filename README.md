@@ -15,7 +15,7 @@
 1. ricerca di un paglio di scarpe
 2. inserire le scarpe in vendita
 3. acquistare le scarpe 
-4. recensire il venditore
+4. recensire il venditore (valutare il vendiditore tramita delle stelle, bisogno di come si e trovato a contratare con il venditore e come si è comportato)
 5. contratare per riuscire ad vendere/acquistastare la scarpa
 ### utente non registarto
 1. può accedere al suo profilo
