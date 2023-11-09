@@ -18,7 +18,7 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 1. i sito di appogerà con Linux, Sarà inoltre necessario utilizzare un server MySQL per gestire il database del sito.  
 ## casi d'uso
 ### utente registrato
-1. ricerca di un paglio di scarpe (la ricerca è effetuata per prodotto)
+1. ricerca di un palio di scarpe (la ricerca è effetuata per prodotto)
 2. inserire le scarpe in vendita
 3. acquistare le scarpe 
 4. recensire il venditore (valutare il vendiditore tramita delle stelle, bisogno di come si e trovato a contratare con il venditore e come si è comportato)
