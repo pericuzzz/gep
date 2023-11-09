@@ -27,12 +27,6 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 1. può accedere al suo profilo
 2. può creare un profilo
 3. dare una ricerca sul sito  (la ricerca è effetuata per prodotto)
-### sistema bancario 
-1. acquistare una scarpa
-### amministrazione di sistema 
-1. controllare la verificata delle scarpe
-2. veridicita delle recensione
-3. manutenzione
 
 ![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-(registrazione),%20[utente%20non%20registrato]-(accedi),%20[utente%20non%20registrato]-(ricerca),%20[utente%20registrato]-(ricerca),%20(ricerca )%20[utente%20registrato]-(acquista/vendi),%20[utente%20registrato]-(contratta),%20(contratta)%3C(acquista/vendi),%20[utente%20registrato]-(recensione),) 
 
