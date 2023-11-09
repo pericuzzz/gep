@@ -12,7 +12,7 @@
 4.  rispettare le norme del GDPR 
 ## casi d'uso
 ### utente registrato
-1. ricerca di un paglio di scarpe
+1. ricerca di un paglio di scarpe (la ricerca è effetuata per prodotto)
 2. inserire le scarpe in vendita
 3. acquistare le scarpe 
 4. recensire il venditore (valutare il vendiditore tramita delle stelle, bisogno di come si e trovato a contratare con il venditore e come si è comportato)
@@ -20,7 +20,7 @@
 ### utente non registarto
 1. può accedere al suo profilo
 2. può creare un profilo
-3. dare una ricerca sul sito  
+3. dare una ricerca sul sito  (la ricerca è effetuata per prodotto)
 ### sistema bancario 
 1. acquistare una scarpa
 ### amministrazione di sistema 
