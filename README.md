@@ -2,7 +2,7 @@
  compra le tue nuove scarpe con sicurezza e guadagna con le scarpe usate che non metti più un sito di compra/vendita di scarpe da collezione con verifica di quest'ultime
 ## risoluzione dei problema
 ### requisiti funzionali 
-1.Il sito deve offrire un'ampia selezione di scarpe da collezione usate disponibili per l'acquisto e la vendita.
+1. Il sito deve offrire un'ampia selezione di scarpe da collezione usate disponibili per l'acquisto e la vendita.
 2. Il sito deve fornire un sistema di autenticazione affidabile per verificare l'autenticità delle scarpe da collezione usate.
 3. Il sito deve consentire agli utenti di valutare e recensire i venditori, fornendo un sistema di valutazione trasparente e affidabile.
 4. Il sito deve garantire la sicurezza delle transazioni e la protezione dei dati personali degli utenti.
