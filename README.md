@@ -17,16 +17,17 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 ### requisiti di dominio 
 1. i sito di appogerà con Linux, Sarà inoltre necessario utilizzare un server MySQL per gestire il database del sito.  
 ## casi d'uso
-### utente registrato
-1. ricerca di un palio di scarpe (la ricerca è effetuata per prodotto)
-2. inserire le scarpe in vendita
-3. acquistare le scarpe 
-4. recensire il venditore (valutare il vendiditore tramita delle stelle, bisogno di come si e trovato a contratare con il venditore e come si è comportato)
-5. contratare per riuscire ad vendere/acquistastare la scarpa
-### utente non registarto
-1. può accedere al suo profilo
-2. può creare un profilo
-3. dare una ricerca sul sito  (la ricerca è effetuata per prodotto)
+#### Utente Registrato:
+1. Come utente registrato, voglio poter cercare un paio di scarpe per marca, taglia o modello, così da trovare facilmente ciò che desidero.
+2. Come utente registrato, desidero poter inserire le scarpe che voglio vendere, fornendo tutte le informazioni necessarie sulle stesse.
+3. Come utente registrato, voglio poter acquistare le scarpe desiderate in modo semplice e veloce.
+4. Come utente registrato, desidero poter recensire il venditore con cui ho effettuato un acquisto, assegnando un punteggio e fornendo feedback sulla mia esperienza.
+5. Come utente registrato, desidero poter contrattare il prezzo delle scarpe con il venditore, per ottenere un accordo vantaggioso per entrambe le parti.
+
+#### Utente Non Registrato:
+1. Come utente non registrato, desidero poter registrare un account sul sito per accedere a tutte le funzionalità offerte.
+2. Come utente non registrato, voglio poter accedere al mio profilo una volta registrato, per gestire le mie informazioni e le mie attività sul sito.
+3. Come utente non registrato, voglio poter cercare un paio di scarpe per marca, taglia o modello, così da esplorare l'ampia selezione disponibile.
 
 ![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-([Utente Non Registrato]-(Registrazione),
 [Utente Non Registrato]-(Accedi),
@@ -36,4 +37,32 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 [Utente Registrato]-(Contratta),
 [Contratta]<(Acquista/Vendi),
 [Utente Registrato]-(Recensione),
+
+### WBS (Work Breakdown Structure):
+
+1. Analisi dei requisiti
+   - Definizione dei requisiti funzionali, non funzionali e di dominio
+   - Identificazione delle user stories
+   
+2. Progettazione
+   - Progettazione dell'architettura del sistema
+   - Progettazione dell'interfaccia utente
+   - Progettazione del database
+
+3. Sviluppo
+   - Implementazione delle funzionalità di ricerca e visualizzazione delle scarpe
+   - Implementazione del sistema di autenticazione e gestione degli account utente
+   - Implementazione del sistema di vendita e acquisto delle scarpe
+   - Implementazione del sistema di recensione dei venditori
+   - Implementazione del sistema di contrattazione dei prezzi
+   
+4. Test e QA
+   - Testing delle funzionalità del sito
+   - Verifica della sicurezza e delle prestazioni del sistema
+   - Risoluzione dei bug e ottimizzazione del codice
+   
+5. Lancio e Deployment
+   - Preparazione per il lancio del sito
+   - Deployment del sito sul server Linux con database MySQL
+   - Monitoraggio post-lancio e gestione dei feedback degli utenti
 
