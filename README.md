@@ -58,4 +58,15 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
    - Preparazione per il lancio del sito
    - Deployment del sito sul server Linux con database MySQL
    - Monitoraggio post-lancio e gestione dei feedback degli utenti
+### pivot:
+Hai fatto un buon lavoro nel definire i requisiti e suddividerli in fasi chiare per lo sviluppo del progetto. Ora, per quanto riguarda il pivot, potresti considerare alcune opzioni:
 
+1. **Pivot sul mercato/target**: Potresti valutare se il mercato delle scarpe da collezione è abbastanza grande e redditizio per giustificare lo sviluppo di un'intera piattaforma. Potresti allargare il focus per includere anche altri tipi di prodotti da collezione o articoli moda, oppure potresti concentrarti su un mercato specifico di scarpe, come ad esempio sneakers o scarpe vintage.
+
+2. **Pivot sul modello di business**: Potresti valutare se il modello di business attuale è sostenibile e redditizio. Potresti considerare l'offerta di servizi aggiuntivi, come la pulizia e la manutenzione delle scarpe, la consulenza sulla collezione o la sponsorizzazione da parte dei produttori di scarpe da collezione.
+
+3. **Pivot sulle funzionalità della piattaforma**: Potresti valutare se tutte le funzionalità elencate sono necessarie o se alcune di esse potrebbero essere ridotte o eliminate. Ad esempio, potresti concentrarti maggiormente sull'implementazione di un sistema di autenticazione altamente affidabile o sulla creazione di una vasta rete di venditori affidabili.
+
+4. **Pivot sulle tecnologie utilizzate**: Potresti valutare se le tecnologie attualmente previste sono le più adatte per il progetto. Potresti considerare l'utilizzo di framework o piattaforme preesistenti per accelerare lo sviluppo, oppure potresti esplorare soluzioni alternative per migliorare le prestazioni, la sicurezza o la scalabilità del sistema.
+
+Valuta attentamente ciascuna opzione per identificare il pivot più adatto alle esigenze del progetto e del mercato.
