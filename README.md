@@ -29,14 +29,7 @@ monitoraggio in tempo reale per verificare che i tempi di consegna siano rispett
 2. Come utente non registrato, voglio poter accedere al mio profilo una volta registrato, per gestire le mie informazioni e le mie attività sul sito.
 3. Come utente non registrato, voglio poter cercare un paio di scarpe per marca, taglia o modello, così da esplorare l'ampia selezione disponibile.
 
-![diagramma uml](https://yuml.me/diagram/scruffy/usecase/[utente%20non%20registrato]-([Utente Non Registrato]-(Registrazione),
-[Utente Non Registrato]-(Accedi),
-[Utente Non Registrato]-(Ricerca),
-[Utente Registrato]-(Ricerca),
-[Ricerca]<(Acquista/Vendi),
-[Utente Registrato]-(Contratta),
-[Contratta]<(Acquista/Vendi),
-[Utente Registrato]-(Recensione),
+![diagramma uml]<img src="http://yuml.me/diagram/scruffy/usecase/[Utente Non Registrato]-(Registrazione),[Utente Non Registrato]-(Accedi),[Utente Non Registrato]-(Ricerca),[Utente Registrato]-(Ricerca),(Ricerca)<(Acquista/Vendi),[Utente Registrato]-(Contratta),(Contratta)<(Acquista/Vendi),[Utente Registrato]-(Recensione)]" >
 
 ### WBS (Work Breakdown Structure):
 
