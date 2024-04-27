@@ -69,4 +69,3 @@ Hai fatto un buon lavoro nel definire i requisiti e suddividerli in fasi chiare 
 
 4. **Pivot sulle tecnologie utilizzate**: Potresti valutare se le tecnologie attualmente previste sono le più adatte per il progetto. Potresti considerare l'utilizzo di framework o piattaforme preesistenti per accelerare lo sviluppo, oppure potresti esplorare soluzioni alternative per migliorare le prestazioni, la sicurezza o la scalabilità del sistema.
 
-Valuta attentamente ciascuna opzione per identificare il pivot più adatto alle esigenze del progetto e del mercato.
